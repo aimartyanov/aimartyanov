@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aimartyanov
-- 👀 I’m interested in Python,Java,English,Games
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python,Java,C++,C#,English,Games
 - 📫 How to reach me aimartyanov@gmail.com
 
 <!---
